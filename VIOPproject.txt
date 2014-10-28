@@ -1,0 +1,29 @@
+VIOP
+	the human voice must be “packetized.”
+	uses SIP (  Session Initiation Protocol )
+	Application layer 
+	Each resource of a SIP network, such as a user agent or a voicemail box, is identified by a uniform resource identifier (URI) sample sip:username:password@host:port 
+
+highlights of VOIP
+	ridiculously cheap 
+	infrastructure is easier to maintain. Instead of maintaining a POTS line and a network line, only a network lines are needed
+	QOS is important on the network because voice delay irritates humans
+	Unified Auto Atendant – allow call routing/ priority/ load balancing
+	web portal to voicemails and all other statistics
+	replace PBX as the defacto standard with it's scalability, price, and added features
+	Allowed companies to cheaply send call center jobs overseas. (this had a global social impact)
+	
+HISTORY 
+1995: 
+	– Vocaltec in Israel introduced the first VoIP  product (InternetPhone)
+1998: 
+	 – Less than 1% of cals in U.S. made using 
+
+	– Switching equipment introduced by Cisco, Nortel, and Lucent
+2000: 
+	– More than 3% of calls made using VoIP
+
+2005:
+	– major voice quality issues addressed by  prioritizing voice over data trafic
+	– Projected revenue from VoIP equipment sales is $3 bilion 
+	– $8.5 bilion dolars revenue from VoIP equipment by 2008
